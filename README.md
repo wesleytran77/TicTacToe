@@ -1,4 +1,4 @@
 # TicTacToe
 2 player Tic Tac Toe! Built using grid 
 
-lessons learned: querySelectorAll, forEach()
+lessons learned: querySelectorAll, forEach(), working with SVG
